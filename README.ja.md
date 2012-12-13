@@ -1,5 +1,8 @@
-Google Play / Google Checkout Scraper
-========================================
+Android Checkout Scraper
+========================
+
+本プロジェクトは終了しました。
+新プロジェクトは https://github.com/tmurakam/googleplay-scraper です。
 
 はじめに
 ========

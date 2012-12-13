@@ -1,5 +1,8 @@
-Google Play / Google Checkout Scraper
-========================================
+Android Checkout Scraper
+========================
+
+Note: This project is obsoleted. New project is 
+https://github.com/tmurakam/googleplay-scraper
 
 Introduction
 ============
